@@ -1,0 +1,13 @@
+{
+  "name": "rtmp-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Popoy Vargas",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-media-server": "^2.2.4"
+  }
+}
